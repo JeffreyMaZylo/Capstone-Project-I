@@ -3,7 +3,9 @@
 * [Introduction](#introduction)
 * [Dataset](#dataset)
 * [Data Story](#Data_Story)
-* [Code](#Code)
+* [Python Code](#Python_Code)
+* [Powerpoint Presentation](#Powerpoint_Presentation)
+* [Final Report](#Final_Report)
 
 
 # Introduction
@@ -15,3 +17,7 @@ Viusalizations and exploration of Data: https://github.com/jeffreyzhangma/Capsto
 # Python Code
 Complete code for project:
 https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/Capstone%20Project%20cleaned%20(1).ipynb
+# Powerpoint Presentation
+https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/Capstone%20Project.pdf
+# Final Report
+https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/SpringBoard%20Capstone%20Report-%20Jeff%20Ma%20(1).pdf
