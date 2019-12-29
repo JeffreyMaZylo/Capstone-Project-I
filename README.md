@@ -11,6 +11,7 @@ The purpose of this project was to build a machine learning model that would pre
 # Dataset
 The data was taken from the NYC Open Data website at this link: https://analyse.kmi.open.ac.uk/open_dataset 
 # Data Story
-https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/Capstone%20Project%20Data%20Story.ipynb
+Viusalizations and exploration of Data: https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/Capstone%20Project%20Data%20Story.ipynb
 # Python Code
+Complete code for project:
 https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/Capstone%20Project%20cleaned%20(1).ipynb
