@@ -1,4 +1,5 @@
 # Capstone-Project-I
+Springboard Capstone Project 1: Predicting Withdrawal Rates of Online Students Based on Activity
 ## Table of contents
 * [Introduction](#introduction)
 * [Dataset](https://analyse.kmi.open.ac.uk/open_dataset)
