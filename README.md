@@ -1,11 +1,11 @@
 # Capstone-Project-I
 ## Table of contents
 * [Introduction](#introduction)
-* [Dataset](#dataset)
-* [Data Story](#Data_Story)
-* [Python Code](#Python_Code)
-* [Powerpoint Presentation](#Powerpoint_Presentation)
-* [Final Report](#Final_Report)
+* [Dataset](https://analyse.kmi.open.ac.uk/open_dataset)
+* [Data Story](https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/Capstone%20Project%20Data%20Story.ipynb)
+* [Python Code](https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/Capstone%20Project%20cleaned%20(1).ipynb)
+* [Powerpoint Presentation](https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/Capstone%20Project.pdf)
+* [Final Report](https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/SpringBoard%20Capstone%20Report-%20Jeff%20Ma%20(1).pdf)
 
 
 # Introduction
@@ -14,13 +14,13 @@ The purpose of this project was to build a machine learning model that would pre
 The data was taken from the NYC Open Data website at this link: https://analyse.kmi.open.ac.uk/open_dataset 
 # Data Story
 Viusalizations and exploration of Data: <br />
-https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/Capstone%20Project%20Data%20Story.ipynb
+[Data Story](https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/Capstone%20Project%20Data%20Story.ipynb)
 # Python Code
 Complete code for project: <br />
-https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/Capstone%20Project%20cleaned%20(1).ipynb
+[Python Code](https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/Capstone%20Project%20cleaned%20(1).ipynb)
 # Powerpoint Presentation
 Slides for presentation: <br />
-https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/Capstone%20Project.pdf
+[Powerpoint Presentation](https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/Capstone%20Project.pdf)
 # Final Report
 Final written report: <br />
-https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/SpringBoard%20Capstone%20Report-%20Jeff%20Ma%20(1).pdf
+[Final Report](https://github.com/jeffreyzhangma/Capstone-Project-I/blob/master/SpringBoard%20Capstone%20Report-%20Jeff%20Ma%20(1).pdf)
